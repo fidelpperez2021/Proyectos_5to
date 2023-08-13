@@ -1,21 +1,44 @@
 INTRODUCCION
-En la era digital actual, donde la tecnología ha permeado todos los aspectos de nuestras vidas, la gestión de datos personales se ha convertido en un tema de profunda relevancia y complejidad. Los datos personales, que abarcan información única y sensible sobre individuos, han adquirido un valor incalculable en diversos contextos, desde el ámbito comercial y médico hasta el gubernamental y social. No obstante, este crecimiento exponencial en la recopilación y uso de datos también ha planteado preocupaciones significativas sobre la privacidad, la seguridad y la ética en la manipulación de esta información tan íntima. Por lo tanto, es imperativo abordar de manera efectiva la gestión de datos personales, estableciendo prácticas que equilibren la utilidad de los datos con la protección de los derechos individuales. 
-La ingeniería del software, en su intrincada danza entre la creatividad y la estructura, ha sido siempre un campo en el que los datos personales adquieren un rol crucial. A medida que la tecnología digital se ha enraizado profundamente en nuestra sociedad, los sistemas y aplicaciones que diseñamos y construimos han empezado a tejerse estrechamente con la información personal de los usuarios.
-La ingeniería del software, en esencia, se trata de dar forma a soluciones digitales que mejoren la vida de las personas. Ya sea creando aplicaciones móviles que faciliten la comunicación, diseñando plataformas de comercio electrónico que agilicen las transacciones o construyendo sistemas de gestión que optimicen las operaciones empresariales, el objetivo central es satisfacer las necesidades y deseos de los usuarios.
-La creación de este programa de gestión de datos personales traerá muchos beneficios significativos tanto para los usuarios individuales como para las organizaciones que manejan información confidencial. 
-Los usuarios podrán centralizar datos dispares en un solo lugar, simplificando la gestión y reduciendo la posibilidad de pérdida de información. 
-La capacidad de asignar niveles de acceso y control permitirá a los usuarios compartir datos de forma selectiva y segura.
-Además, el empleo de prácticas sólidas de ciberseguridad garantizará que la información esté protegida de posibles amenazas, lo que aumentará la confianza en el uso del software.
-La finalización exitosa de este proyecto se basará en una metodología de desarrollo de software que combina principios ágiles con prácticas de ingeniería sólidas. 
-Se seguirá un enfoque iterativo e incremental para el diseño y la implementación, lo que permitirá ajustes flexibles a medida que se recopilen los comentarios de los usuarios y se identifiquen otros requisitos. 
-Un equipo de desarrollo compuesto por expertos en ingeniería de software y seguridad de datos trabajará en estrecha colaboración para garantizar la coherencia entre el diseño y la funcionalidad.  
+En la era digital actual, donde la tecnología ha permeado todos los aspectos de nuestras vidas, la gestión de datos personales se ha 
+convertido en un tema de profunda relevancia y complejidad. Los datos personales, que abarcan información única y sensible sobre individuos, 
+han adquirido un valor incalculable en diversos contextos, desde el ámbito comercial y médico hasta el gubernamental y social. 
+No obstante, este crecimiento exponencial en la recopilación y uso de datos también ha planteado preocupaciones significativas sobre la privacidad, 
+la seguridad y la ética en la manipulación de esta información tan íntima. Por lo tanto, es imperativo abordar de manera efectiva la gestión de 
+datos personales, estableciendo prácticas que equilibren la utilidad de los datos con la protección de los derechos individuales. 
+
+La ingeniería del software, en su intrincada danza entre la creatividad y la estructura, ha sido siempre un campo en el que los datos personales 
+adquieren un rol crucial. A medida que la tecnología digital se ha enraizado profundamente en nuestra sociedad, los sistemas y aplicaciones que 
+diseñamos y construimos han empezado a tejerse estrechamente con la información personal de los usuarios.
+
+La ingeniería del software, en esencia, se trata de dar forma a soluciones digitales que mejoren la vida de las personas. Ya sea creando aplicaciones 
+móviles que faciliten la comunicación, diseñando plataformas de comercio electrónico que agilicen las transacciones o construyendo sistemas de gestión 
+que optimicen las operaciones empresariales, el objetivo central es satisfacer las necesidades y deseos de los usuarios.
+La creación de este programa de gestión de datos personales traerá muchos beneficios significativos tanto para los usuarios individuales como para las 
+organizaciones que manejan información confidencial. Los usuarios podrán centralizar datos dispares en un solo lugar, simplificando la gestión y 
+reduciendo la posibilidad de pérdida de información. 
+
+La capacidad de asignar niveles de acceso y control permitirá a los usuarios compartir datos de forma selectiva y segura. Además, el empleo de prácticas 
+sólidas de ciberseguridad garantizará que la información esté protegida de posibles amenazas, lo que aumentará la confianza en el uso del software. La 
+finalización exitosa de este proyecto se basará en una metodología de desarrollo de software que combina principios ágiles con prácticas de ingeniería 
+sólidas. 
+
+Se seguirá un enfoque iterativo e incremental para el diseño y la implementación, lo que permitirá ajustes flexibles a medida que se recopilen los 
+comentarios de los usuarios y se identifiquen otros requisitos. 
+Un equipo de desarrollo compuesto por expertos en ingeniería de software y seguridad de datos trabajará en estrecha colaboración para garantizar 
+la coherencia entre el diseño y la funcionalidad.  
 Se llevarán a cabo pruebas exhaustivas en cada etapa para garantizar la alta calidad y confiabilidad del producto final.
 
 
 OBJETIVO GENERAL
-Diseñar y desarrollar una solución de software que aborde los desafíos asociados con la gestión de datos personales, esta solución no solo se centrará en la eficiencia y la funcionalidad técnica, sino también en la protección de la privacidad y el cumplimiento de las regulaciones pertinentes, a través de este proyecto, se busca mejorar la comprensión de cómo la ingeniería de software puede contribuir a la gestión responsable de los datos personales en entornos digitales.
+Diseñar y desarrollar una solución de software que aborde los desafíos asociados con la gestión de datos personales, esta solución no solo se centrará 
+en la eficiencia y la funcionalidad técnica, sino también en la protección de la privacidad y el cumplimiento de las regulaciones pertinentes, a través 
+de este proyecto, se busca mejorar la comprensión de cómo la ingeniería de software puede contribuir a la gestión responsable de los datos personales en 
+entornos digitales.
 
 OBJETIVOS ESPECIFIVOS
-Analizar y comprender en profundidad los conceptos clave relacionados con la gestión de datos personales, incluyendo la recopilación, almacenamiento, procesamiento y transferencia segura de dichos datos.
-Documentar el proceso de diseño y desarrollo, destacando las decisiones tomadas en relación con la gestión de datos personales, los desafíos encontrados y las soluciones implementadas.
+Analizar y comprender en profundidad los conceptos clave relacionados con la gestión de datos personales, incluyendo la recopilación, almacenamiento, 
+procesamiento y transferencia segura de dichos datos.
+
+Documentar el proceso de diseño y desarrollo, destacando las decisiones tomadas en relación con la gestión de datos personales, los desafíos encontrados 
+y las soluciones implementadas.
  
