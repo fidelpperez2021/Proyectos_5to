@@ -1,4 +1,12 @@
-                                                Gestion de datos personale
+\documentclass{11pt}{article}
+\usepackage{sectsty}
+\usepackage{graphicx}
+
+\title{Gestion de datos personales}
+\author{Alvarado Leonardo, Castro Fidel, Angulo Hugo, Guevara Josein, Lastra Josue}
+\date{\today}
+\begin{documet}
+\maketitle
 
 INTRODUCCION
 
