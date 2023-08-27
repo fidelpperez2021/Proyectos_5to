@@ -3,7 +3,7 @@
 \usepackage{graphicx}
 
 \title{Gestion de datos personales}
-\author{Alvarado Leonardo, Castro Fidel, Angulo Hugo, Guevara Josein, Lastra Josue}
+\author{Alvarado Leonardo, Perez Fidel, Angulo Hugo, Guevara Josein, Lastra Josue}
 \date{\today}
 \begin{documet}
 \maketitle
@@ -47,6 +47,10 @@ desde empresas que desean personalizar sus ofertas hasta gobiernos que buscan to
 el análisis de datos personales permite a las empresas comprender mejor a sus clientes, ajustar sus estrategias de marketing y mejorar la experiencia del usuario. 
 En la medicina, la recopilación y el análisis de datos personales pueden conducir a diagnósticos y tratamientos más precisos. En el sector gubernamental,
 los datos personales se utilizan para mejorar los servicios públicos y tomar decisiones basadas en evidencia.
+
+La ingeniería del software, en su intrincada danza entre la creatividad y la estructura, ha sido siempre un campo en el que los datos personales 
+adquieren un rol crucial. A medida que la tecnología digital se ha enraizado profundamente en nuestra sociedad, los sistemas y aplicaciones que 
+diseñamos y construimos han empezado a tejerse estrechamente con la información personal de los usuarios.
 
 \section{Objetivo general}
 
