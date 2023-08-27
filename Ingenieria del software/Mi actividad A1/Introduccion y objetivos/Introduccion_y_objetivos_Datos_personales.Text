@@ -56,6 +56,8 @@ Crear una solución de software para gestionar datos personales que enfoque la e
 el objetivo es demostrar cómo la ingeniería de software puede mejorar la gestión responsable de datos personales en entornos digitales y cumpliendo 
 con regulaciones pertinentes.
 
+\section{Objetivos especificos}
+
 OBJETIVOS ESPECIFIVOS
 Analizar y comprender en profundidad los conceptos clave relacionados con la gestión de datos personales, incluyendo la recopilación, almacenamiento, 
 procesamiento y transferencia segura de dichos datos.
@@ -63,3 +65,10 @@ procesamiento y transferencia segura de dichos datos.
 Documentar el proceso de diseño y desarrollo, destacando las decisiones tomadas en relación con la gestión de datos personales, los desafíos encontrados 
 y las soluciones implementadas.
 
+begin{enumerate}
+\iten Analizar
+\iten Diseñar
+\iten Programar
+\end{enumerate}
+
+\end{enumerate}
